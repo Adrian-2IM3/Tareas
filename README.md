@@ -9,7 +9,7 @@
   <h2>Mis Entregas</h2>
     
   <ol>
-        <li><a href="1ra_pag_Abby.html">Tarea 1: Estructura HTML</a></li>
+        <li><a href="https://adrian-2im3.github.io/Tareas/1ra_de_Elias/index.html">Tarea 1: Estructura HTML</a></li>
         <li><a href="Listas_y_líneas.html">Tarea 2: Listas y líneas</a></li>
         <li><a href="imagenes_multimedia/index.html">Tarea 3: Imágenes y multimedia</a></li>
         <li><a href="https://adrian-2im3.github.io/Tareas/hipervinculo/index.html">Tarea 4: Hipervínculos</a></li>
