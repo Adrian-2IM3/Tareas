@@ -15,7 +15,7 @@
         <li><a href="https://adrian-2im3.github.io/Tareas/hipervinculo/index.html">Tarea 4: Hipervínculos</a></li>
         <li>Tarea 5: Tablas</li>
            <ul>
-               <li><a href="Tablas/index.html">TABLAS</a></li>
+               <li><a href=https://adrian-2im3.github.io/Tareas/tablas/index.html">TABLAS</a></li>
                <li><a href="Tablas/index.html">CONTINENTES</a></li>
            </ul>
   </ol>
