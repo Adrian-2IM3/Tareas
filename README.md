@@ -3,7 +3,6 @@
     <title>Mis practicas</title>
 </head>
 <body>
-
    <h1>Bienvenid@ a mis Prácticas.</h1>
       <p align="right">
           <font size="4" face="Arial">
@@ -30,7 +29,6 @@
 
 <a href="https://adrian-2im3.github.io/Tareas/reflexion/index.html">Reflexion sobre el semestre</a>
   <p>Hecho por: Adrian 2IM3</p>
-
   
 </body>
 </html>
