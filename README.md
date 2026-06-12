@@ -11,8 +11,9 @@
               Naxhiely Wendoline Sandoval Trasviña
               <br><br>
               <b>Nombre del alumno: Mendoza Betancourt Luis Adrián</b><br>
-              <b>Grupo: 2IM3
-         
+              <b>Grupo: 2IM3</b>
+          </font>
+              
   <h2>Mis Entregas</h2>
     
   <ol>
