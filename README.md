@@ -12,8 +12,7 @@
               <br><br>
               <b>Nombre del alumno: Mendoza Betancourt Luis Adrián</b><br>
               <b>Grupo: 2IM3
-          </font>
-       </p>
+         
   <h2>Mis Entregas</h2>
     
   <ol>
@@ -30,5 +29,6 @@
 <a href="https://adrian-2im3.github.io/Tareas/reflexion/index.html">Reflexion sobre el semestre</a>
   <p>Hecho por: Adrian 2IM3</p>
 
+  
 </body>
 </html>
