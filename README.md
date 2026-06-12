@@ -14,8 +14,7 @@
           </font>
       </p>
     
-  <h2>Mis Entregas</h2>
-    
+  <h2>Mis Entregas</h2>  
   <ol>
         <li><a href="https://adrian-2im3.github.io/Tareas/1ra_de_Elias/index.html">Tarea 1: Estructura HTML</a></li>
         <li><a href="https://adrian-2im3.github.io/Tareas/listasylineas/index.html">Tarea 2: Listas y líneas</a></li>
@@ -31,5 +30,5 @@
 <a href="https://adrian-2im3.github.io/Tareas/reflexion/index.html">Reflexion sobre el semestre</a>
   <p>Hecho por: Adrian 2IM3</p></body>
    
-  </body>
-  </html>
+</body>
+</html>
