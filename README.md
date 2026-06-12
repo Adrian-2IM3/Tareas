@@ -5,7 +5,15 @@
 <body>
 
    <h1>Bienvenid@ a mis Prácticas.</h1>
-
+      <p align="right">
+          <font size="4" face="Arial">
+              <b>Nombre del maestro:</b><br>
+              Naxhiely Wendoline Sandoval Trasviña
+              <br><br>
+              <b>Nombre del alumno: Mendoza Betancourt Luis Adrián</b><br>
+              <b>Grupo: 2IM3</big>
+          </font>
+       </p>
   <h2>Mis Entregas</h2>
     
   <ol>
@@ -19,7 +27,7 @@
                <li><a href="https://adrian-2im3.github.io/Tareas/continentes/index.html">CONTINENTES</a></li>
            </ul>
   </ol>
-
+<a href="https://adrian-2im3.github.io/Tareas/reflexion/index.html">Reflexion sobre el semestre</a>
   <p>Hecho por: Adrian 2IM3</p>
 
 </body>
