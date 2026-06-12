@@ -20,7 +20,7 @@ Naxhiely Wendoline Sandoval Trasviña
 
  <table width="100%" border="0">
         <tr>
-            <td width="30%" bgcolor="#FF8A8A" valign="top">
+            <td width="30%" valign="top">
                 <h2>Mis Entregas</h2>  
                 <ol>
                     <li><a href="https://adrian-2im3.github.io/Tareas/1ra_de_Elias/index.html">Tarea 1</a></li>
